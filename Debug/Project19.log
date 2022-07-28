@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+C:\Users\Kamal\source\repos\Project19\Project19\Source1.cpp(1,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Kamal\source\repos\Project19\Project19\Source1.cpp(1,5): error C2146: syntax error: missing ';' before identifier 'parser'
+C:\Users\Kamal\source\repos\Project19\Project19\Source1.cpp(2,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Kamal\source\repos\Project19\Project19\Source1.cpp(2,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Kamal\source\repos\Project19\Project19\Source1.cpp(26,1): fatal error C1004: unexpected end-of-file found
